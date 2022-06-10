@@ -1,0 +1,8 @@
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpAssignments\cSharpAssignments\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpAssignments\cSharpAssignments\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpAssignments\cSharpAssignments\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpAssignments\cSharpAssignments\ConsoleApp1\ConsoleApp1\obj\Debug\FileHandling.csproj.AssemblyReference.cache
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpAssignments\cSharpAssignments\ConsoleApp1\ConsoleApp1\obj\Debug\FileHandling.csproj.SuggestedBindingRedirects.cache
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpAssignments\cSharpAssignments\ConsoleApp1\ConsoleApp1\obj\Debug\FileHandling.csproj.CoreCompileInputs.cache
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpAssignments\cSharpAssignments\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpAssignments\cSharpAssignments\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
