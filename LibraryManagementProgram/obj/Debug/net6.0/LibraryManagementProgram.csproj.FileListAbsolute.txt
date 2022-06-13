@@ -1,0 +1,15 @@
+C:\Users\shaikh faqruddin\source\repos\LibraryManagementProgram\LibraryManagementProgram\bin\Debug\net6.0\LibraryManagementProgram.exe
+C:\Users\shaikh faqruddin\source\repos\LibraryManagementProgram\LibraryManagementProgram\bin\Debug\net6.0\LibraryManagementProgram.deps.json
+C:\Users\shaikh faqruddin\source\repos\LibraryManagementProgram\LibraryManagementProgram\bin\Debug\net6.0\LibraryManagementProgram.runtimeconfig.json
+C:\Users\shaikh faqruddin\source\repos\LibraryManagementProgram\LibraryManagementProgram\bin\Debug\net6.0\LibraryManagementProgram.dll
+C:\Users\shaikh faqruddin\source\repos\LibraryManagementProgram\LibraryManagementProgram\bin\Debug\net6.0\LibraryManagementProgram.pdb
+C:\Users\shaikh faqruddin\source\repos\LibraryManagementProgram\LibraryManagementProgram\obj\Debug\net6.0\LibraryManagementProgram.csproj.AssemblyReference.cache
+C:\Users\shaikh faqruddin\source\repos\LibraryManagementProgram\LibraryManagementProgram\obj\Debug\net6.0\LibraryManagementProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shaikh faqruddin\source\repos\LibraryManagementProgram\LibraryManagementProgram\obj\Debug\net6.0\LibraryManagementProgram.AssemblyInfoInputs.cache
+C:\Users\shaikh faqruddin\source\repos\LibraryManagementProgram\LibraryManagementProgram\obj\Debug\net6.0\LibraryManagementProgram.AssemblyInfo.cs
+C:\Users\shaikh faqruddin\source\repos\LibraryManagementProgram\LibraryManagementProgram\obj\Debug\net6.0\LibraryManagementProgram.csproj.CoreCompileInputs.cache
+C:\Users\shaikh faqruddin\source\repos\LibraryManagementProgram\LibraryManagementProgram\obj\Debug\net6.0\LibraryManagementProgram.dll
+C:\Users\shaikh faqruddin\source\repos\LibraryManagementProgram\LibraryManagementProgram\obj\Debug\net6.0\refint\LibraryManagementProgram.dll
+C:\Users\shaikh faqruddin\source\repos\LibraryManagementProgram\LibraryManagementProgram\obj\Debug\net6.0\LibraryManagementProgram.pdb
+C:\Users\shaikh faqruddin\source\repos\LibraryManagementProgram\LibraryManagementProgram\obj\Debug\net6.0\LibraryManagementProgram.genruntimeconfig.cache
+C:\Users\shaikh faqruddin\source\repos\LibraryManagementProgram\LibraryManagementProgram\obj\Debug\net6.0\ref\LibraryManagementProgram.dll
