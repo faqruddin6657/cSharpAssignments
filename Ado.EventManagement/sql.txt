@@ -1,0 +1,45 @@
+
+create table superadmins(said int IDENTITY(1,1),saname varchar(20),sapassword varchar(20), primary key(said));
+create table admins(aid int IDENTITY(1,1),aname varchar(20),apassword varchar(20),role varchar(20), primary key(aid));
+create table customers(cid int IDENTITY(1,1),cname varchar(20),mobile varchar(20),residence varchar(max),email varchar(20),cpassword varchar(20), primary key(cid) );
+
+create table fooditems(fid int IDENTITY(1,1), item varchar(20),price int,primary key(fid));
+create table dcoritems(did int IDENTITY(1,1), item varchar(20),price int,primary key(did));
+create table necessoryitems(nid int IDENTITY(1,1), item varchar(20),price int,primary key(nid));
+
+create table eventtable(evid int IDENTITY(1,1), eventname varchar(20),price int,primary key(evid));
+
+
+create table cfoodchoice(customer int references customers(cid), fooditem int references fooditems(fid));
+create table cdecorchoice(customer int references customers(cid), decoritem int references dcoritems(did));
+create table cnecesschoice(customer int references customers(cid), necessitem int references necessoryitems(nid));
+create table cEventchose(customer int references customers(cid), choseevent int references eventtable(evid));
+create table evstatus(evnid int references eventtable(evid),cid int references customers(cid),apermission varchar(10),sapermission varchar(20),amount int,finaldecison varchar(10),eventstatus varchar(10) );
+
+drop table cfoodchoice;
+drop table cdecorchoice;
+drop table cnecesschoice;
+drop table evstatus;
+drop table cEventchose;
+
+drop table superadmins;
+drop table admins;
+drop table customers;
+drop table fooditems;
+drop table dcoritems;
+drop table necessoryitems;
+drop table eventtable;
+
+insert into superadmins values('shaikh','faqruddin');
+select *from cfoodchoice;
+
+select * from cnecesschoice;
+select * from superadmins;
+select * from admins;
+update admins set apassword='mujeebuddin' where aname='shaikh mujeebuddin';
+select * from cnecesschoice;
+select * from admins;
+
+select * from customers,dcoritems,cdecorchoice where cid=customer and decoritem=did and cid=2;
+select * from customers,necessoryitems,cnecesschoice where cid=customer and necessitem=nid and cid=2;
+select * from customers

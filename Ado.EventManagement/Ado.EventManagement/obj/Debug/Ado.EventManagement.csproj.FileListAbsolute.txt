@@ -1,0 +1,8 @@
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpAssignments\cSharpAssignments\Ado.EventManagement\Ado.EventManagement\bin\Debug\Ado.EventManagement.exe.config
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpAssignments\cSharpAssignments\Ado.EventManagement\Ado.EventManagement\bin\Debug\Ado.EventManagement.exe
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpAssignments\cSharpAssignments\Ado.EventManagement\Ado.EventManagement\bin\Debug\Ado.EventManagement.pdb
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpAssignments\cSharpAssignments\Ado.EventManagement\Ado.EventManagement\obj\Debug\Ado.EventManagement.csproj.AssemblyReference.cache
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpAssignments\cSharpAssignments\Ado.EventManagement\Ado.EventManagement\obj\Debug\Ado.EventManagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpAssignments\cSharpAssignments\Ado.EventManagement\Ado.EventManagement\obj\Debug\Ado.EventManagement.csproj.CoreCompileInputs.cache
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpAssignments\cSharpAssignments\Ado.EventManagement\Ado.EventManagement\obj\Debug\Ado.EventManagement.exe
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpAssignments\cSharpAssignments\Ado.EventManagement\Ado.EventManagement\obj\Debug\Ado.EventManagement.pdb
