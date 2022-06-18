@@ -1,0 +1,11 @@
+create database foodmanagement;
+
+create table menu(fid int identity(1,1), foodname varchar(20),price int, primary key(fid))
+create table admin(username varchar(20),password varchar(20))
+create table customer(cid int identity(1,1),cname varchar(20),mobile varchar(12),primary key(cid) )
+create table customerfoodchoice(fcid int references customer(cid),fcfid int references menu(fid))
+
+
+select sum(price) from menu,customer,customerfoodchoice where cid=fcid and fcfid=fid;
+select foodname,price from menu,customer,customerfoodchoice where cid=fcid and fcfid=fid;
+

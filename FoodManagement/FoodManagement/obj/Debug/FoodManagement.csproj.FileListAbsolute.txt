@@ -1,0 +1,8 @@
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpAssignments\cSharpAssignments\FoodManagement\FoodManagement\bin\Debug\FoodManagement.exe.config
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpAssignments\cSharpAssignments\FoodManagement\FoodManagement\bin\Debug\FoodManagement.exe
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpAssignments\cSharpAssignments\FoodManagement\FoodManagement\bin\Debug\FoodManagement.pdb
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpAssignments\cSharpAssignments\FoodManagement\FoodManagement\obj\Debug\FoodManagement.csproj.AssemblyReference.cache
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpAssignments\cSharpAssignments\FoodManagement\FoodManagement\obj\Debug\FoodManagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpAssignments\cSharpAssignments\FoodManagement\FoodManagement\obj\Debug\FoodManagement.csproj.CoreCompileInputs.cache
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpAssignments\cSharpAssignments\FoodManagement\FoodManagement\obj\Debug\FoodManagement.exe
+C:\Users\shaikh faqruddin\OneDrive\Desktop\CSharpAssignments\cSharpAssignments\FoodManagement\FoodManagement\obj\Debug\FoodManagement.pdb
