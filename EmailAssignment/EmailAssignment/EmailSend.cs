@@ -15,7 +15,7 @@ namespace EmailAssignment
 {
     internal class EmailSend
     {
-        public void SendMail(string username, string password, string touser)
+        public void SendMail(string frmemail, string password, string touser)
         {
            /* MimeMessage message = new MimeMessage();//creating a message object to fill in the information
             message.From.Add(new MailboxAddress("shaikh faqruddin", "shaikhfaqru786@gmail.com")); //adding sender to  message object
@@ -30,9 +30,9 @@ namespace EmailAssignment
 
             try
             {
-                var fromAddress = new MailAddress("shaikh.faqruddin@kelltontech.com", "Shaikh faqruddin");
-                var toAddress = new MailAddress("shaikhfaqru786@gmail.com", "shaikh faqruddin");
-                const string fromPassword = "@Employeeofkellton";
+                var fromAddress = new MailAddress(frmemail, "Shaikh faqruddin");
+                var toAddress = new MailAddress(touser, "shaikh faqruddin");
+                const string fromPassword = "gnvdetdlymnboire";
                 const string subject = "huge gratitude ";
                 const string body = "Welcome ";
 

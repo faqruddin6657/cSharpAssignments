@@ -12,7 +12,10 @@ namespace EmailAssignment
     {
         static void Main(string[] args)
         {
-         
+             EmailSend emailSend = new EmailSend();
+            emailSend.SendMail("shaikhfaqru76@gmail.com", "gnvdetdlymnboire", "shaikh.faqru786@gmail.com");
+
+            /*
             CustomerMaster customerMaster = new CustomerMaster();
            while(true)
             {
@@ -34,6 +37,7 @@ namespace EmailAssignment
                 
            
             }
+            */
         }
     }
 }
